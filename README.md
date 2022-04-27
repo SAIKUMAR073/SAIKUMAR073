@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAIKUMAR073
 - 👀 I’m interested in VLSI,Semiconductor,Embedded Systems,IOT,Full Stack Developing.
 - 🌱 I’m currently learning Electronic and Communication Engineering,B.Tech
-- 💞️ I’m looking for VLSI,HDL,Embedded Systems Internships
+- 💞️ I’m looking for VLSI,HDL,Embedded Systems,Full Stack Development Internships
 - 📫 How to reach me bt19ece073@iiitn.ac.in
 
 <!---
